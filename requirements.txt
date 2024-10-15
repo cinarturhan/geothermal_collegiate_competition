@@ -1,0 +1,5 @@
+contextily==1.6.2
+geopandas==1.0.1
+ipykernel==6.29.5
+pip-chill==1.0.3
+seaborn==0.13.2
